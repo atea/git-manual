@@ -7,3 +7,6 @@
 
 ### Kildekode motor
 * Installer Git
+
+### Todo 
+- [ ] Plugins i Intellij
