@@ -20,4 +20,4 @@ This is a rudimentary manual to help you get going.
 Go to [ateanorge-github/README.md](https://github.com/ateanorge/ateanorge-github/blob/main/README.md) for more information.
 
 # Further reading
-* [Norwegian git and GitHub instructions](./ReadmeNorwegian.md)
+* [git and GitHub instructions in Norwegian](./ReadmeNorwegian.md)
