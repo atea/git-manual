@@ -1,11 +1,11 @@
 # Atea Git manual
 
-Welcome to the GitHub for Atea Norge!
+Welcome to the GitHub for Atea!
 
 This is a rudimentary manual to help you get going.
 
 # Accounts
-* Make sure your GitHub account has [verified the atea.no email](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address)
+* Make sure your GitHub account has [verified the Atea-email](https://help.github.com/en/github/getting-started-with-github/verifying-your-email-address)
 * Make sure to add your full name to the account
 
 # Naming schemes
@@ -17,7 +17,7 @@ This is a rudimentary manual to help you get going.
 * Repositories must not have the aforementioned prefix.
 
 # Create new teams and/or repositories
-Go to [ateanorge-github/README.md](https://github.com/ateanorge/ateanorge-github/blob/main/README.md) for more information.
+Go to [atea-github/README.md](https://github.com/atea/atea-github/blob/main/README.md) for more information.
 
 # Further reading
 * [git and GitHub instructions in Norwegian](./ReadmeNorwegian.md)
